@@ -4,7 +4,7 @@ Textbook: 패턴인식 (오일석 저)
 
 ## 일정
 | #Page | Title | Schedule |
-| :--- | :---: | ---: |
+| :--- | :--- | ---: |
 | 1장 (27p) | 소개 | 2017.03.06 |
 | 2장 (38p) | 베이지언 결정 이론 | 2017.03.20 |
 | 3장 (31p) | 확률 분포 추정 | 2017.04.03 |
@@ -19,6 +19,6 @@ Textbook: 패턴인식 (오일석 저)
 | 21장 (42p) | 혼성 모델 | 2017.08.07 |
 
 ## 참여자
-Nathaniel [nathanielyjang@gmail.com]
-Murray
-Joanne
+- Nathaniel [nathanielyjang@gmail.com]
+- Murray
+- Joanne
