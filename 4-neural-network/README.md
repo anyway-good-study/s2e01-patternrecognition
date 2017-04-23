@@ -8,6 +8,7 @@
 ## 예제
 
 ### Linear regression
+
 - 실행
 ```bash
 python linear-regression.py
@@ -29,9 +30,11 @@ python linear-regression.py
 
 - 설명
 
-input/linear-reg-train.txt 학습 데이터를 참고하여 x1, x2, b(bias 는 1) 값을 대입하여 확인할 수도 있다.
+위 출력결과에서 [[ bias, w0, w1 ]] 이 학습되는 과정을 볼 수 있다.
 
-y = w1*x1 + w2*x2 + w3*1 (단, w1=1.0, w2=1.0, w3=1.0)
+input/linear-reg-train.txt 학습 데이터를 참고하여 b(bias 는 1), x0, x1 값을 대입하여 확인할 수도 있다.
+
+y = w0*x0 + w1*x1 + b (단, w0=1.0, w1=1.0, b=1.0)
 
 위 함수를 만족하는 W를 구한 것을 알 수 있다.
 
