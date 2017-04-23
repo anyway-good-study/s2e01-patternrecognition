@@ -46,7 +46,6 @@ y = w0*x0 + w1*x1 + b (단, w0=1.0, w1=1.0, b=1.0)
 python logistic-regression.py
 ```
 
-
 - 출력결과
 ```text
 0 1.03547 [[-0.87249863  0.19334999 -0.32115254]]
@@ -63,6 +62,12 @@ python logistic-regression.py
 [[ 0.88766009]]
 [[ 0.16068491  0.83291596]]
 ```
+
+- 설명
+iteration 2,000 번을 수행하였을 때 추정한 hypothesis 인 y = 0.23x0 + 1.74x1 - 7.8 식을 얻을 수 있다.
+
+이 출력값에 대한 sigmoid(y) 값을 취하면 Prediction 값이 올바르게 출력된 것을 확인 할 수 있다.
+
 
 ### Titanic Problem (Kaggle)
 
